@@ -1,0 +1,152 @@
+TORRENT PARA TODOS
+CONTRATO DE LICENCIA DE USUARIO FINAL (EULA) - SOFTWARE PROPIETARIO DE CÓDIGO CERRADO
+
+Copyright (c) 2026 Facundo Gabriel Peralta Marello (GitHub: facuperma / Faierwall).
+Todos los derechos reservados.
+
+Lea este contrato antes de instalar o usar el Software. Al instalarlo, copiarlo o
+usarlo, usted acepta estos términos. Si no los acepta, no lo instale ni lo use.
+
+1. DEFINICIONES
+   «Software»: el programa Torrent Para Todos para Windows (antes TVon y
+   TorrentVision), la app Torrent Para Todos para Android (antes TVon ON), el canal
+   para Roku, sus instaladores, actualizaciones, documentación, interfaz, logos,
+   nombres, diseños y demás elementos, en forma ejecutable o de cualquier otro tipo.
+   «Titular»: Facundo Gabriel Peralta Marello.
+   «Usuario»: la persona que instala o usa el Software.
+
+2. TITULARIDAD
+   El Software es una obra protegida por la Ley 11.723 de Propiedad Intelectual de la
+   República Argentina (incluido el software, según la Ley 25.036), por los tratados
+   internacionales de derecho de autor y por las demás leyes aplicables. El Software
+   se licencia, no se vende. El Titular conserva todos los derechos de autor y de
+   propiedad intelectual sobre él, incluido su código fuente, que es secreto y no se
+   publica ni se entrega. Los nombres «Torrent Para Todos», «TVon» y sus logos son
+   signos distintivos del Titular.
+
+3. LICENCIA QUE SE OTORGA
+   El Titular otorga al Usuario una licencia personal, no exclusiva, intransferible,
+   no sublicenciable y revocable para instalar y usar los ejecutables oficiales del
+   Software, obtenidos de la fuente oficial del Titular, en dispositivos propios y
+   solo para uso personal y no comercial. Cualquier otro uso, incluido el comercial,
+   requiere autorización previa y por escrito del Titular.
+
+4. RESTRICCIONES
+   Salvo en la medida en que la ley aplicable lo permita expresamente pese a esta
+   prohibición, el Usuario NO puede:
+   a) descompilar, desensamblar, hacer ingeniería inversa, extraer el código fuente,
+      el código intermedio (bytecode) o los recursos de los ejecutables, ni intentar
+      reconstruirlos por cualquier medio;
+   b) modificar, traducir, adaptar o crear obras derivadas del Software;
+   c) copiar el Software, salvo una copia de respaldo para uso propio;
+   d) distribuir, publicar, vender, alquilar, prestar, sublicenciar o poner el
+      Software a disposición de terceros, incluido en otros sitios o paquetes;
+   e) eludir, desactivar o alterar cualquier medida técnica de protección, de
+      verificación o de licencia del Software;
+   f) quitar, ocultar o cambiar los avisos de derechos de autor, marcas o licencia;
+   g) usar el Software para infringir derechos de terceros o la ley.
+
+5. CONTENIDO Y USO RESPONSABLE
+   El Software es una herramienta para organizar y reproducir archivos del Usuario y
+   para descargar archivos mediante protocolos estándar (por ejemplo, BitTorrent o el
+   Internet Archive). El Software no aloja, no provee, no indexa ni recomienda
+   contenido protegido. El Usuario es el único responsable de los archivos que
+   descarga, comparte, guarda o reproduce, y de contar con los derechos o
+   autorizaciones necesarios. El Titular no controla ni responde por el contenido
+   de terceros ni por los sitios o servicios externos que el Software consulta o abre.
+
+6. COMPONENTES DE TERCEROS
+   El Software incluye o usa componentes de terceros que se rigen por sus propias
+   licencias, detalladas en el archivo TERCEROS.txt. Para esos componentes, sus
+   licencias prevalecen sobre este contrato en lo que corresponda, y nada de este
+   contrato limita los derechos que esas licencias otorgan sobre ellos.
+
+7. ACTUALIZACIONES
+   El Titular puede publicar actualizaciones, cambiar funciones o dejar de mantener el
+   Software en cualquier momento, sin obligación de hacerlo. Las actualizaciones se
+   rigen por este contrato o por el que las acompañe.
+
+8. SIN GARANTÍA
+   El Software se entrega «tal cual» y «según disponibilidad», sin garantías de
+   ningún tipo, expresas o implícitas, incluidas las de funcionamiento ininterrumpido
+   o libre de errores, comerciabilidad, idoneidad para un fin determinado y no
+   infracción, en la máxima medida que permita la ley aplicable.
+
+9. LIMITACIÓN DE RESPONSABILIDAD
+   En la máxima medida que permita la ley aplicable, el Titular no será responsable
+   por daños directos, indirectos, incidentales, especiales o consecuentes, pérdida
+   de datos, de archivos, de ganancias o de uso, ni por reclamos de terceros,
+   derivados del uso o de la imposibilidad de usar el Software. Nada de esta cláusula
+   excluye los derechos irrenunciables que la ley de defensa del consumidor otorgue
+   al Usuario.
+
+10. TERMINACIÓN
+    Esta licencia termina automáticamente si el Usuario incumple cualquiera de sus
+    términos. Al terminar, el Usuario debe dejar de usar el Software y eliminar todas
+    sus copias. Las cláusulas 2, 4, 5, 8, 9 y 12 siguen vigentes.
+
+11. VERSIONES ANTERIORES
+    Las copias de versiones publicadas antes del 3 de noviembre de 2026 con licencia
+    MIT conservan esa licencia solo para las copias obtenidas en ese momento. Las
+    versiones posteriores, incluidas todas las actuales y futuras, se rigen por este
+    contrato.
+
+12. LEY APLICABLE Y JURISDICCIÓN
+    Este contrato se rige por las leyes de la República Argentina. Cualquier
+    controversia se somete a los tribunales ordinarios de la Ciudad Autónoma de
+    Buenos Aires, salvo que una norma de orden público de protección al consumidor
+    disponga otra jurisdicción.
+
+13. CONTACTO
+    Consultas y pedidos de autorización: https://github.com/facuperma/TorrentParaTodos/issues
+
+
+-------------------------------------------------------------------------------
+ENGLISH (convenience translation; the Spanish version prevails)
+
+TORRENT PARA TODOS - END USER LICENSE AGREEMENT (EULA) - PROPRIETARY, CLOSED-SOURCE SOFTWARE
+
+Copyright (c) 2026 Facundo Gabriel Peralta Marello (GitHub: facuperma / Faierwall).
+All rights reserved.
+
+By installing, copying or using the Software you accept these terms. If you do not
+accept them, do not install or use it.
+
+1. "Software" means the Torrent Para Todos Windows program (formerly TVon and
+   TorrentVision), the Android app (formerly TVon ON), the Roku channel, their
+   installers, updates, documentation, interface, logos, names and designs.
+2. OWNERSHIP. The Software is protected by Argentine Law 11.723 (including Law
+   25.036 on software) and international copyright treaties. It is licensed, not
+   sold. The owner keeps all copyright and intellectual property rights, including
+   the source code, which is confidential and is not published or provided.
+3. LICENSE. A personal, non-exclusive, non-transferable, non-sublicensable and
+   revocable license to install and use the official executables, obtained from the
+   owner's official source, on your own devices, for personal non-commercial use
+   only. Any other use, including commercial use, requires prior written permission.
+4. RESTRICTIONS. Except where applicable law expressly permits it notwithstanding
+   this limitation, you may not: decompile, disassemble, reverse engineer or extract
+   the source code, bytecode or resources; modify or create derivative works; copy
+   the Software (except one backup copy for your own use); distribute, publish, sell,
+   rent, lend or sublicense it; circumvent any protection or verification measure;
+   remove copyright, trademark or license notices; or use it to infringe third-party
+   rights or the law.
+5. CONTENT. The Software is a tool to organize and play your own files and to
+   download files through standard protocols. It does not host, provide, index or
+   recommend protected content. You are solely responsible for the files you
+   download, share, store or play and for holding the necessary rights.
+6. THIRD-PARTY COMPONENTS are governed by their own licenses, listed in TERCEROS.txt,
+   which prevail for those components.
+7. UPDATES may be published, changed or discontinued at any time.
+8. NO WARRANTY. The Software is provided "as is", without warranties of any kind,
+   to the maximum extent permitted by law.
+9. LIMITATION OF LIABILITY. To the maximum extent permitted by law, the owner is not
+   liable for any direct, indirect, incidental, special or consequential damages,
+   loss of data, profits or use, or third-party claims. Non-waivable consumer rights
+   are not affected.
+10. TERMINATION. This license ends automatically if you breach it; you must then stop
+    using the Software and delete all copies. Sections 2, 4, 5, 8, 9 and 12 survive.
+11. PRIOR VERSIONS. Copies of versions published before November 3, 2026 under the
+    MIT license keep that license only for the copies obtained at that time.
+12. GOVERNING LAW. Laws of the Argentine Republic; courts of the Autonomous City of
+    Buenos Aires, unless mandatory consumer protection rules provide otherwise.
+13. CONTACT: https://github.com/facuperma/TorrentParaTodos/issues

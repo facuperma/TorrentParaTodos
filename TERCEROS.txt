@@ -1,0 +1,41 @@
+TORRENT PARA TODOS - COMPONENTES DE TERCEROS / THIRD-PARTY COMPONENTS
+
+Torrent Para Todos es software propietario de código cerrado (ver LICENSE). Incluye o
+usa los siguientes componentes de terceros, que NO son propiedad del titular y se
+rigen por sus propias licencias. Nada del contrato de licencia de Torrent Para Todos
+limita los derechos que estas licencias otorgan sobre cada componente.
+
+PROGRAMA PARA WINDOWS
+- Python 3 - Python Software Foundation License. https://www.python.org/
+- Qt 6 / PySide6 (Qt for Python) - GNU LGPL v3. Se usan sin modificar, como
+  bibliotecas dinámicas (archivos .dll y .pyd en la carpeta del programa), que el
+  usuario puede reemplazar por otras versiones compatibles. Código fuente:
+  https://code.qt.io/ y https://download.qt.io/official_releases/QtForPython/
+  Texto de la licencia: https://www.gnu.org/licenses/lgpl-3.0.html
+- aria2 1.37.0 - GNU GPL v2 (con excepción para OpenSSL). Se incluye sin modificar
+  como programa aparte (aria2c.exe), que Torrent Para Todos ejecuta como proceso
+  independiente. Licencia: organizador\bin\aria2-LICENCIA.txt. Código fuente:
+  https://github.com/aria2/aria2/releases/tag/release-1.37.0
+- cryptography - Apache License 2.0 / BSD. https://github.com/pyca/cryptography
+- requests - Apache License 2.0. https://github.com/psf/requests
+- Beautiful Soup 4 - MIT. https://www.crummy.com/software/BeautifulSoup/
+- NumPy - BSD 3-Clause. https://numpy.org/
+- PyChromecast - MIT. https://github.com/home-assistant-libs/pychromecast
+- python-zeroconf - GNU LGPL v2.1, sin modificar. https://github.com/python-zeroconf/python-zeroconf
+- segno - BSD 3-Clause. https://github.com/heuer/segno
+- Fuente Inter - SIL Open Font License 1.1 (organizador\fuentes\Inter-LICENCIA.txt).
+- PyInstaller (solo su cargador) - GPL v2 con excepción para programas empaquetados.
+
+APP PARA ANDROID
+- AndroidX, Jetpack Compose, Media3 (ExoPlayer), OkHttp - Apache License 2.0.
+- libtorrent4j - MIT; libtorrent - BSD. Se descargan aparte solo si se activan los
+  torrents en el celular.
+- Lector de códigos QR de Google Play Services - según los términos de Google.
+
+SERVICIOS EN LÍNEA (no se incluyen; se consultan o se abren en el navegador)
+- Wikidata y Wikipedia (Wikimedia Foundation), Letterboxd, TVmaze, TMDb, Internet
+  Archive, OpenSubtitles, subdivx, subtis.io y ext.to. Cada uno según sus propios
+  términos de uso. Torrent Para Todos no está afiliado a ninguno de ellos.
+
+Programas externos que el usuario puede instalar aparte (no se incluyen): FFmpeg
+(LGPL/GPL), WinRAR.

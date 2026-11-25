@@ -8,13 +8,13 @@ Aplicación de escritorio para bajar, organizar y ver películas, series y video
 
 ## Descargar
 
-**[⬇ TorrentParaTodos-Setup-1.13.18.exe](https://github.com/facuperma/TorrentParaTodos/raw/main/instalador/TorrentParaTodos-Setup-1.13.18.exe)** (92 MB): para la PC (Windows 10/11, 64 bits). No pide Python ni permisos de administrador. Como no está firmado, Windows puede decir «Windows protegió su PC»: **Más información → Ejecutar de todas formas**.
+**[⬇ TorrentParaTodos-Setup-1.13.19.exe](https://github.com/facuperma/TorrentParaTodos/raw/main/instalador/TorrentParaTodos-Setup-1.13.19.exe)** (92 MB): para la PC (Windows 10/11, 64 bits). No pide Python ni permisos de administrador. Como no está firmado, Windows puede decir «Windows protegió su PC»: **Más información → Ejecutar de todas formas**.
 
 **[⬇ TorrentParaTodos-Android-1.2.10.apk](https://github.com/facuperma/TorrentParaTodos/raw/main/instalador/TorrentParaTodos-Android-1.2.10.apk)** (3 MB): app para el celular (Android 8 o más nuevo).
 
 También desde la **[página de Torrent Para Todos](https://facuperma.github.io/TorrentParaTodos/#bajar)** (en la compu muestra un QR para bajar la app).
 
-**¿Es el original?** El botón **🔒 Bajar verificado** de esa página compara la huella SHA-256 con la de [`instalador/SHA256.txt`](instalador/SHA256.txt). A mano: `Get-FileHash TorrentParaTodos-Setup-1.13.18.exe` en PowerShell.
+**¿Es el original?** El botón **🔒 Bajar verificado** de esa página compara la huella SHA-256 con la de [`instalador/SHA256.txt`](instalador/SHA256.txt). A mano: `Get-FileHash TorrentParaTodos-Setup-1.13.19.exe` en PowerShell.
 
 La biblioteca y la configuración se guardan en `%LOCALAPPDATA%\TVon`.
 

@@ -1,3 +1,3 @@
-72f662d07c475943a13a648b773b9a3aadc53ef7f58277292fcb816e81765900  TorrentParaTodos-Setup-1.13.20.exe
-63c72ef8558078cc7327ce8c1534e77a5c662d7261fce622200ffbd3693a1f3c  TorrentParaTodos-Android-1.2.11.apk
+e47b684d2052623fe77f245c70d8caf84b9d713f5146007f1b1d5b9321dee796  TorrentParaTodos-Setup-1.14.2.exe
+fdfccc121e5bd1699eb7f2c8302dd60e3726fb4d68810f36ebf7cf833443c5c8  TorrentParaTodos-Android-1.2.12.apk
 b0a81cdd53cc5292eb7d2263c77d1fa6136ebfa40578ded9cf908dda2ae672e4  TorrentParaTodos-Roku.zip
